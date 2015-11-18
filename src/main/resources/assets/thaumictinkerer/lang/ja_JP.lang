@@ -1,0 +1,101 @@
+tile.darkQuartzBlock.name=煙水晶ブロック
+tile.darkQuartzPatterned.pillar.name=柱状煙水晶ブロック
+tile.darkQuartzPatterned.chisel.name=模様入り煙水晶ブロック
+tile.funnel.name=エッセンシア漏斗
+tile.boundJar.name=リンクされた瓶
+tile.unstableIce.name=氷
+
+
+
+tc.research_category.TT_CATEGORY=Thaumic Tinkering
+
+itemGroup.ThaumicTinkerer=Thaumic Tinkerer
+# WAILA
+ttwaila.boundJar.network=ネットワーク: %s
+ttwaila.boundJar.colour=色: %s
+
+
+# ITEM NAMES
+item.darkQuartzItem.name=煙水晶
+item.jarSeal.name=瓶縛りの封蝋
+item.stabilizerBelt.name=安定化のベルト
+item.enderDisruption.name=エンダー撹乱の護符
+item.foodTalisman.name=滋養のタリスマン
+item.mobAspect.name=Mob Aspect
+item.mobAspect.condensed.name=Condensed Mob Aspect
+item.mobAspect.infused.name=Infused Mob Aspect
+item.bootsComet.name=彗星の靴
+item.bootsMeteor.name=流星の靴
+item.bloodSword.name=呪われし魂の剣
+item.cleansingTalisman.name=治癒のタリスマン
+
+##Item Details
+ttitems.boundJar.networkInfo=ネットワークID: %s
+ttitems.boundJar.noNetworkInfo=ネットワークなし
+ttitems.foodTalisman.tooltip=現在満腹度%sポイント分と隠し満腹度%sポイント分を保持
+ttitems.mobAspects.aspect.info=相: %s
+ttitems.mobaspects.condensed=Condensed
+ttitems.mobaspects.infused=Infused
+ttitems.cleansingTalisman.enabled=有効
+ttitems.cleansingTalisman.disabled=無効
+
+
+
+#CONFIG COMMENTS
+ttconfig.general=一般設定
+ttconfig.back=戻る
+ttconfig.tooltip.name=ツールチップに情報表示する
+ttconfig.tooltip.comment=falseにするとソーモノミコンに[TT]のコメントが表示されない。
+
+
+
+#RESEARCH
+ttresearch.prefix=[TT]
+
+#STABILIZER BELT
+ttresearch.name.STABILIZER_BELT=安定化のベルト
+ttresearch.lore.STABILIZER_BELT=ノックバック?私はここにいるが?
+ttresearch.page.STABILIZER_BELT.0=魔動制御装備で見つかったものと同様の技術を用い、ノックバック効果を無効化する特殊なベルトを創りだした。<BR><BR>ダメージを受けた時、周囲を弾き、代わりに自分はその場に残る。この装置は魔動制御装備で飛ぶときだけでなく、夜間の外出にも極めて有用であることがわかった。
+
+#ENDER_DISRUPTER
+ttresearch.name.ENDER_DISRUPTER=エンダー撹乱の護符
+ttresearch.lore.ENDER_DISRUPTER=そんな風に跳び回るのは止めて私と戦え!
+ttresearch.page.ENDER_DISRUPTER.0=エンダーパールの慎重な研究の後、エンダーマンの瞬間移動の仕組みや、また更に重要などうやってそれを止めるのかを発見した。<BR><BR>エンダーパールに汚染を注入すると、汚染はエンダーマンがある地点から別の地点への小旅行に使う此岸と彼岸の境界に影響を及ぼし、それを閉じる。これで護符を作り出せば、それを着けている、奴らは近くでテレポートできなくなるだろう。<BR><BR>装着していると護符には汚染を抑えこむのとそれを次元の境界を介して拡散するのにストレスがかかり、最終的に砕け散るだろう。
+
+#COMET_BOOTS
+ttresearch.name.COMET_BOOTS=彗星の靴
+ttresearch.lore.COMET_BOOTS=Ice Ice Baby
+ttresearch.page.COMET_BOOTS.0=旅人の靴は速いが、改善の余地が考えられる。旅人の靴にAquaとGelumを注入することで、比類なきスピードの靴ができあがった。<BR><BR>この靴は装着者が彗星の如く走り、広大な土地をほんの数秒で踏破することを可能にする。水は何の妨害にもならない。彗星の靴の装備者の足下で水は一時的に凍りつくだろう。
+
+#FOOD_TALISMAN
+ttresearch.name.FOOD_TALISMAN=滋養のタリスマン
+ttresearch.lore.FOOD_TALISMAN=永遠の果実
+ttresearch.page.FOOD_TALISMAN.0=あなたは研究マラソン中に空腹を満たすための休憩の必要にしばしば迫られていた。最終的に、あなたは食糧の必要性をかいくぐる術を見つけた。<BR><BR>ダイヤモンドに飢餓の本質を注入することで、ホットバー上のさまざまな食糧アイテムから栄養のエネルギーを吸ったり、そのエネルギーを中に保存したりできるアイテムを創りだした。食糧メーターが消耗したとき、これは自動的にそれを補充する。このデバイスは単純な食料品にしか作用せず、腐った肉や金リンゴなどの特殊効果を引き起こすものについては通常の手段で消費しなければならない。
+
+#BLOOD_SWORD
+ttresearch.name.BLOOD_SWORD=呪われし魂の剣
+ttresearch.lore.BLOOD_SWORD=嫌なやつだな
+ttresearch.page.BLOOD_SWORD.0=未曾有の力で敵を打つ剣を作り上げた。しかし、これが事実となるためには、この剣は攻撃者の血を啜らねばならない。<BR><BR>この剣で何者かにダメージを与える時、攻撃者にハート1個分のダメージを与える。この剣での防御からはいかなる大きさのダメージも無関係にハート1.5個分になる。<BR><BR>更に、この剣を手にするだけで所持者に不動のオーラを与え、通常より速く動けるようにする。
+
+# METEOR_BOOTS
+--Boots of the Meteor
+ttresearch.name.METEOR_BOOTS=流星の靴
+ttresearch.lore.METEOR_BOOTS=そーれ、ドーン
+ttresearch.page.METEOR_BOOTS.0=旅人の靴はとても便利であるが、時々は更なる機動性が欲しくなる。旅人の靴にIgnisとPotentiaの生の力を付与することで、比類なき機動性を有する一足の靴を創りだした。<BR><BR>この靴は装着者がしゃがみながらジャンプすると、その向いている方向へと流星の力で推進する。空中でしゃがみボタンを押すと、凄まじいスピードでプレイヤーを地面に打ち付け、衝突地点の周辺にダメージを与える。
+
+# CLEANSING_TALISMAN
+ttresearch.name.CLEANSING_TALISMAN=治癒のタリスマン
+ttresearch.lore.CLEANSING_TALISMAN=軫宿の贈り物
+ttresearch.page.CLEANSING_TALISMAN.0=生命と肉体を研究し、外界の有害な影響から魔法の応用を介して、それらの効果を内部へと矛先を変えることで所持者自身を守る装置を発見した。このタリスマンはホットバーに置いておくだけでほとんどの有害な効果を取り払い、損耗しながらそれ自身に封じ込める。これは一部の歪みの効果も取り除くが、それには耐久値を大きく消耗する。<BR><BR>能力の有効無効を切り替えるには、手に持ってShift+クリックすると良い。当然、有効化している間だけこれは機能する。恩恵を受けるためにはこれを護符のスロットに装備しなければならない。
+
+# DARK_QUARTZ
+ttresearch.name.DARK_QUARTZ=煙水晶
+ttresearch.lore.DARK_QUARTZ=日の陰
+ttresearch.page.DARK_QUARTZ.0=煙水晶はほぼ水晶と同等だが、負の性質を持っている。水晶から作られる基本的なブロックは、全て煙水晶からも作ることができ、それらの外観は黒くなる。<BR><BR>煙水晶それ自体は着色のための石炭か木炭の一かけ、および通常のネザー水晶を数片で作ることができる。
+
+# JAR_SEAL
+ttresearch.name.JAR_SEAL=瓶縛りの封蝋
+ttresearch.lore.JAR_SEAL=エッセンシア、どこにでもエッセンシア
+ttresearch.page.JAR_SEAL.0=封蝋を浸すエッセンシアの神秘的特性を考慮して相の混合を調整することで、エッセンシアの容器、特に保護瓶同士を結びつけられることを発見した。以前の封蝋のように、この瓶縛りの封蝋は染色でき、無限のネットワークを構築することができる。<BR><BR>瓶を瓶縛りの封蝋で右クリックすることで、新しいネットワークが作れる。既に結び付けられた瓶をクリックすると、その封蝋はネットワークにリンクされる。
+ttresearch.page.JAR_SEAL.1=リンクされた封蝋で未接続の瓶を右クリックすると、その瓶をネットワークにリンクさせることができる。空の瓶同士のみが接続可能なのに注意されたし。虚無瓶やラベル付きの瓶は接続できない。<BR><BR>封が貼られた瓶はラベルされてない瓶より高い陰圧を持つが、ラベルされた瓶よりは低い。
+ttresearch.page.JAR_SEAL.2=染料を用いて封蝋を望む色に染色できる。また金床で名付けることでネットワークに任意の名前をつけられる。
